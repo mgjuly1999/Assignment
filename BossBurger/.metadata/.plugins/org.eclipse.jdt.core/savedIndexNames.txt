@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Min.Mg.Hein\BossBurger\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+765546315.index
+2791622074.index
